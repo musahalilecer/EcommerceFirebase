@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EcommerceFirebase</string>
+    <string name="title_activity_product_add">ProductAddActivity</string>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="title_activity_shopping_card">ShoppingCardActivity</string>
+</resources>

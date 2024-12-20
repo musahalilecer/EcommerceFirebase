@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "800846993016",
+    "project_id": "ecommercekotlin-cfd62",
+    "storage_bucket": "ecommercekotlin-cfd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800846993016:android:c2a4d655e28169d495bf8d",
+        "android_client_info": {
+          "package_name": "com.musahalilecer.EcommerceFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2m3wfraAsJ5dbDcRoy5udAkni3VpJ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800846993016:android:194fd4fba583b23b95bf8d",
+        "android_client_info": {
+          "package_name": "com.musahalilecer.ecommercefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2m3wfraAsJ5dbDcRoy5udAkni3VpJ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
